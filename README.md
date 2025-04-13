@@ -118,8 +118,8 @@
 <div align="center">
 
 <a  href="#" target="_blank"><img src="https://blog-assets.hootsuite.com/wp-content/uploads/2018/09/In-2C-54px-R.png" width="48px" height="48px"></a>
-<a style="padding-left:5%" href="https://github.com/metheiram" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2351/PNG/512/logo_github_icon_143196.png" width="48px" height="48px" ></a>
-<a style="padding-left:5%" href="https://twitter.com/metheiram" target="_blank"><img src="https://i.ibb.co/kmgQVyW/twitter.png" width="48px" height="48px"></a>
+<a style="padding-left:5%" href="#" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2351/PNG/512/logo_github_icon_143196.png" width="48px" height="48px" ></a>
+<a style="padding-left:5%" href="#" target="_blank"><img src="https://i.ibb.co/kmgQVyW/twitter.png" width="48px" height="48px"></a>
 <a style="padding-left:5%" href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" width="48px" height="48px"></a>
 <a style="padding-left:5%" href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/640px-Telegram_2019_Logo.svg.png" width="48px" height="48px"></a>
 
