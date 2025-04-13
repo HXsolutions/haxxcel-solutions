@@ -101,9 +101,9 @@
 <h2 align="center">📈 𝑴𝒚 Stats </h2>
 <div align="center" style="display:flex; width:100%;">
   
-  ![Arman's GitHub stats](https://github-readme-stats.vercel.app/api?username=haxxcelsolutions&show_icons=true&theme=onedark) 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haxxcelsolutions&layout=compact)
-  [![GitHub Streak](https://streak-stats.demolab.com?user=haxxcelsolutions&theme=radical&border_radius=50&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
+  ![Arman's GitHub stats](https://github-readme-stats.vercel.app/api?username=HXsolutions&show_icons=true&theme=onedark) 
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HXsolutions&layout=compact)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=HXsolutions&theme=radical&border_radius=50&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
   
 </div>
 
