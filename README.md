@@ -67,7 +67,7 @@
 <div align="center">
 
 ### Thanks for visiting my profile, see you next time! in sha ALLAH
- ![Visitor Count](https://profile-counter.glitch.me/metheiram/count.svg)
+ ![Visitor Count](https://profile-counter.glitch.me/haxxcelsolutions/count.svg)
 
 </div>
 
@@ -91,18 +91,18 @@
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
 
-<h2 align="center">🏆 𝑴𝒚 𝑮𝒊𝒕𝒉𝒖𝒃 𝑻𝒓𝒐𝒑𝒉𝒊𝒆𝒔</h2>
+<h2 align="center">🏆  𝑮𝒊𝒕𝒉𝒖𝒃 𝑻𝒓𝒐𝒑𝒉𝒊𝒆𝒔</h2>
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=metheiram&theme=radical&&title=Stars,Followers,Commit,PR,Repo,Issues&no-frame=true" width="780px"  />
+<img src="https://github-profile-trophy.vercel.app/?username=haxxcelsolutions&theme=radical&&title=Stars,Followers,Commit,PR,Repo,Issues&no-frame=true" width="780px"  />
 
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
-<h2 align="center">📈 𝑴𝒚 Stats </h2>
+<h2 align="center">📈 Stats </h2>
 <div align="center" style="display:flex; width:100%;">
   
-  ![Arman's GitHub stats](https://github-readme-stats.vercel.app/api?username=metheiram&show_icons=true&theme=onedark) 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=metheiram&layout=compact)
-  [![GitHub Streak](https://streak-stats.demolab.com?user=metheiram&theme=radical&border_radius=50&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
+  ![Arman's GitHub stats](https://github-readme-stats.vercel.app/api?username=haxxcel solutions&show_icons=true&theme=onedark) 
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haxxcelsolutions&layout=compact)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=haxxcelsolutions&theme=radical&border_radius=50&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
   
 </div>
 
