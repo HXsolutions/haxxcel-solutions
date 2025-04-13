@@ -7,9 +7,7 @@
     Hi 👋, We're Haxxcel Solutions
     <br>
     <br>
-    We are an innovative IT solutions agency specializing in **AI **, **Penetration Testing**, and **Custom IT Solutions**. As a team of passionate IT professionals, we help businesses secure their digital assets and optimize their operations with cutting-edge technology.
-
-- 
+    We are an innovative IT solutions agency specializing in **AI Cybersecurity**, **Penetration Testing**, and **Custom IT Solutions**. As a team of passionate IT professionals, we help businesses secure their digital assets and optimize their operations with cutting-edge technology.
     <br>
   </samp>
 </p>
@@ -57,10 +55,13 @@
 
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
-- 🔒 Experts in **AI-driven Solutions** and **Network Penetration Testing**
+-🔒 Experts in **AI-driven Cybersecurity** and **Network Penetration Testing**
 - 🌐 Building secure and scalable solutions for businesses worldwide
 - 💻 Offering services like AI agent development, IT consulting, and more
-- 📫 Reach us at: **contact@haxxcelsolutions.com**
+- 📫 reach me: [Gmail](mailto:contact@haxxcelsolutions.com)
+- 📫 reach me: [Instagram](https://www.instagram.com/haxxcelsolutions)
+- 📫 reach me: [Telegram](https://t.me/haxxcelsolutions)
+- 📫 reach me: [Whatsapp](https://wa.me/+92-3276900202)
 
 
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
@@ -91,18 +92,18 @@
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
 
-<h2 align="center">🏆  𝑮𝒊𝒕𝒉𝒖𝒃 𝑻𝒓𝒐𝒑𝒉𝒊𝒆𝒔</h2>
+<h2 align="center">🏆 𝑴𝒚 𝑮𝒊𝒕𝒉𝒖𝒃 𝑻𝒓𝒐𝒑𝒉𝒊𝒆𝒔</h2>
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=haxxcelsolutions&theme=radical&&title=Stars,Followers,Commit,PR,Repo,Issues&no-frame=true" width="780px"  />
 
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
-<h2 align="center">📈 Stats </h2>
+<h2 align="center">📈 𝑴𝒚 Stats </h2>
 <div align="center" style="display:flex; width:100%;">
   
-  ![Arman's GitHub stats](https://github-readme-stats.vercel.app/api?username=HXsolutions&show_icons=true&theme=onedark) 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HXsolutions&layout=compact)
-  
+  ![Arman's GitHub stats](https://github-readme-stats.vercel.app/api?username=haxxcelsolutions&show_icons=true&theme=onedark) 
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haxxcelsolutions&layout=compact)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=haxxcelsolutions&theme=radical&border_radius=50&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
   
 </div>
 
@@ -117,10 +118,10 @@
 
 <div align="center">
 
-<a  href="#" target="_blank"><img src="https://blog-assets.hootsuite.com/wp-content/uploads/2018/09/In-2C-54px-R.png" width="48px" height="48px"></a>
-<a style="padding-left:5%" href="#" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2351/PNG/512/logo_github_icon_143196.png" width="48px" height="48px" ></a>
-<a style="padding-left:5%" href="#" target="_blank"><img src="https://i.ibb.co/kmgQVyW/twitter.png" width="48px" height="48px"></a>
-<a style="padding-left:5%" href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" width="48px" height="48px"></a>
-<a style="padding-left:5%" href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/640px-Telegram_2019_Logo.svg.png" width="48px" height="48px"></a>
+<a  href="https://www.linkedin.com/in/mr-ali-874742259/" target="_blank"><img src="https://blog-assets.hootsuite.com/wp-content/uploads/2018/09/In-2C-54px-R.png" width="48px" height="48px"></a>
+<a style="padding-left:5%" href="https://github.com/haxxcelsolutions" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2351/PNG/512/logo_github_icon_143196.png" width="48px" height="48px" ></a>
+<a style="padding-left:5%" href="https://twitter.com/haxxcelsolutions" target="_blank"><img src="https://i.ibb.co/kmgQVyW/twitter.png" width="48px" height="48px"></a>
+<a style="padding-left:5%" href="https://www.instagram.com/mrsaqibale" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" width="48px" height="48px"></a>
+<a style="padding-left:5%" href="https://t.me/mrsaqibale" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/640px-Telegram_2019_Logo.svg.png" width="48px" height="48px"></a>
 
 </div>
