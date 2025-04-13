@@ -9,13 +9,8 @@
     <br>
     We are an innovative IT solutions agency specializing in **AI Cybersecurity**, **Penetration Testing**, and **Custom IT Solutions**. As a team of passionate IT professionals, we help businesses secure their digital assets and optimize their operations with cutting-edge technology.
 
-- 🔒 Experts in **AI-driven Cybersecurity** and **Network Penetration Testing**
-- 🌐 Building secure and scalable solutions for businesses worldwide
-- 💻 Offering services like AI agent development, IT consulting, and more
-- 📫 Reach us at: **contact@haxxcelsolutions.com**
+- 
     <br>
-    :dizzy: I Am Passionate About Mastering Linux, DevOps, C++, And Node.Js 
-    <br><br>
   </samp>
 </p>
 
@@ -62,13 +57,10 @@
 
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
-- 🌱 I’m currently learning Express Node js
-- 💞️ I’m looking to collaborate on github
-- :sunglasses: exploring new techs everyday
-- 📫 reach me: [Gmail](mailto:metheiram@gmail.com)
-- 📫 reach me: [Instagram](https://www.instagram.com/metheiram)
-- 📫 reach me: [Telegram](https://t.me/metheiram)
-- 📫 reach me: [Whatsapp](https://wa.me/03063928834)
+- 🔒 Experts in **AI-driven Cybersecurity** and **Network Penetration Testing**
+- 🌐 Building secure and scalable solutions for businesses worldwide
+- 💻 Offering services like AI agent development, IT consulting, and more
+- 📫 Reach us at: **contact@haxxcelsolutions.com**
 
 
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
