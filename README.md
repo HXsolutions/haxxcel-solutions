@@ -61,7 +61,7 @@
 - 📫 reach me: [Gmail](mailto:contact@haxxcelsolutions.com)
 - 📫 reach me: [Instagram](https://www.instagram.com/haxxcelsolutions)
 - 📫 reach me: [Telegram](https://t.me/haxxcelsolutions)
-- 📫 reach me: [Whatsapp](https://wa.me/+92-3276900202)
+- 📫 reach me: [Whatsapp](https://wa.me/03276900202)
 
 
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
