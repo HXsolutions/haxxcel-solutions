@@ -94,7 +94,7 @@
 
 <h2 align="center">🏆 𝑴𝒚 𝑮𝒊𝒕𝒉𝒖𝒃 𝑻𝒓𝒐𝒑𝒉𝒊𝒆𝒔</h2>
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=haxxcelsolutions&theme=radical&&title=Stars,Followers,Commit,PR,Repo,Issues&no-frame=true" width="780px"  />
+<img src="https://github-profile-trophy.vercel.app/?username=HXsolutions&theme=radical&&title=Stars,Followers,Commit,PR,Repo,Issues&no-frame=true" width="780px"  />
 
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
