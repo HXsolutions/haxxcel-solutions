@@ -7,7 +7,7 @@
     Hi 👋, We're Haxxcel Solutions
     <br>
     <br>
-    We are an innovative IT solutions agency specializing in **AI Cybersecurity**, **Penetration Testing**, and **Custom IT Solutions**. As a team of passionate IT professionals, we help businesses secure their digital assets and optimize their operations with cutting-edge technology.
+    We are an innovative IT solutions agency specializing in **AI **, **Penetration Testing**, and **Custom IT Solutions**. As a team of passionate IT professionals, we help businesses secure their digital assets and optimize their operations with cutting-edge technology.
 
 - 
     <br>
@@ -57,7 +57,7 @@
 
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
-- 🔒 Experts in **AI-driven Cybersecurity** and **Network Penetration Testing**
+- 🔒 Experts in **AI-driven Solutions** and **Network Penetration Testing**
 - 🌐 Building secure and scalable solutions for businesses worldwide
 - 💻 Offering services like AI agent development, IT consulting, and more
 - 📫 Reach us at: **contact@haxxcelsolutions.com**
