@@ -100,7 +100,7 @@
 <h2 align="center">📈 Stats </h2>
 <div align="center" style="display:flex; width:100%;">
   
-  ![Arman's GitHub stats](https://github-readme-stats.vercel.app/api?username=haxxcel solutions&show_icons=true&theme=onedark) 
+  ![Arman's GitHub stats](https://github-readme-stats.vercel.app/api?username=HXsolutions&show_icons=true&theme=onedark) 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haxxcelsolutions&layout=compact)
   [![GitHub Streak](https://streak-stats.demolab.com?user=haxxcelsolutions&theme=radical&border_radius=50&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
   
